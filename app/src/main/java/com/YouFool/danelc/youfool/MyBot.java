@@ -246,7 +246,6 @@ public class MyBot extends PircBot  {
     //        case 43:return "44)On January 13, 2014, U.S. Secretary of State John Kerry presented to Russian Foreign Minister Sergei Lavrov the odd gift of two very large *POTATOES*.";
     //        case 44:return "45)The inventor of the chocolate chip cookie traded her recipe to Nestlé in exchange for a *LIFE TIME SUPPLY OF CHOCOLATE*.";
     //    }
-    //   return "ERROR, Something went wrong sorry.Please tell the developer this message.";}
 
     public void SendLie(String s)
     {
