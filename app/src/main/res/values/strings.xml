@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YouFool</string>
+    <string name="action_settings">Credits + info</string>
+    <string name="room_prompt">Choose a room</string>
+    <string name="start_show">0</string>
+    <string name="start_Title">YOU FOOL \nMade by Danelc\nPlease choose a room to join:</string>
+    <string name="start_hint">Enter Nickname(MAX 12 characters)</string>
+    <string name="how_to">*Welcome to a quick introduction to the rules of YouFool!\n*on the start menu please choose a room to join and a nickname (optionally) before connecting\n*after connecting you can wait for up to 3 more players to join that same room or just click the ForceStart button on the top\n*when the game starts you will be able to see an incomplete phrase with only one right answer\n*and you should complete in a way that other player will be certain that\'s your answer is the right one\n*after every player submitted his answer a couple of buttons should appear with all the players Lies and one which is the truth\n*your job is to find the truth in between all of the lies\n*after all the choices were made a showcase will star showing off each Lie with who fell for it and became a fool\n*from here we get a new phrase and start all over again!</string>
+    <string-array name="room_arrays">
+        <item>YouFoolRoom1</item>
+        <item>YouFoolRoom2</item>
+        <item>YouFoolRoom3</item>
+        <item>YouFoolRoom4</item>
+        <item>YouFoolRoom5</item>
+    </string-array>
+
+
+</resources>
